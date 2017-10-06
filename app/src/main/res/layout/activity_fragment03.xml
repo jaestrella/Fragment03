@@ -20,7 +20,7 @@
 
     <fragment
         android:id="@+id/fragmento2"
-        android:name="com.iesvirgendelcarmen.dam.fragment03.Fragmento1"
+        android:name="com.iesvirgendelcarmen.dam.fragment03.Fragmento2"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"/>
